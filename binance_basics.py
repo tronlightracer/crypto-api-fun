@@ -26,5 +26,3 @@ for i in data:
     #     kraken_coins = market_name
     #     print(kraken_coins)
 
-    if 
-    
